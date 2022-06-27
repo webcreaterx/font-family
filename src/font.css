@@ -10,6 +10,7 @@
   font-style: none;
 }
 
+/* font */
 @font-face {
   font-family: f-b;
   src: url(./fonts/font2.ttf);
