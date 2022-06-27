@@ -5,3 +5,11 @@ most uses css font-family in webpages or webapplications
 ```
 **font1.ttf
 **font2.ttf
+```
+
+# Use method in css file
+```
+:root {
+   --root-var: monospace;
+}
+```
