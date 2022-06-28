@@ -4,6 +4,7 @@
  * removed this options and delete [fonts] folder
 */
 
+/* font face */
 @font-face {
   font-family: f-r;
   src: url(./fonts/font1.ttf);
